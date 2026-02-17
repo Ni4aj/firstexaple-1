@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstexaple-1/static/css/main.2668986f.css",
+    "main.js": "/firstexaple-1/static/js/main.1b368800.js",
+    "index.html": "/firstexaple-1/index.html",
+    "main.2668986f.css.map": "/firstexaple-1/static/css/main.2668986f.css.map",
+    "main.1b368800.js.map": "/firstexaple-1/static/js/main.1b368800.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2668986f.css",
+    "static/js/main.1b368800.js"
+  ]
+}
